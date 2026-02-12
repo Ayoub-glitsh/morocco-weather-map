@@ -184,9 +184,9 @@ Les contributions sont les bienvenues !
       <a href="https://github.com/merouan-dev">Merouan Errachidi</a>
     </td>
     <td align="center">
-      <img src="https://github.com/ayoubaguezar.png" width="80" style="border-radius:50%;"><br>
+      <img src="https://github.com/Ayoub-glitsh.png" width="80" style="border-radius:50%;"><br>
       <strong>Ayoub Aguezar</strong><br>
-      <a href="https://github.com/ayoubaguezar">@ayoubaguezar</a>
+      <a href="https://github.com/Ayoub-glitsh">Ayoub Aguezar</a>
     </td>
   </tr>
 </table>
