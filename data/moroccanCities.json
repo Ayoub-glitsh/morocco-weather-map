@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "الرباط",
+    "nameFr": "Rabat",
+    "nameEn": "Rabat",
+    "lat": 33.9716,
+    "lon": -6.8498,
+    "isCapital": true,
+    "population": 577827,
+    "region": "الرباط-سلا-القنيطرة"
+  },
+  {
+    "id": 2,
+    "name": "الدار البيضاء",
+    "nameFr": "Casablanca",
+    "nameEn": "Casablanca",
+    "lat": 33.5731,
+    "lon": -7.5898,
+    "isCapital": false,
+    "population": 3359818,
+    "region": "الدار البيضاء-سطات"
+  },
+  {
+    "id": 3,
+    "name": "مراكش",
+    "nameFr": "Marrakech",
+    "nameEn": "Marrakech",
+    "lat": 31.6295,
+    "lon": -7.9811,
+    "isCapital": false,
+    "population": 928850,
+    "region": "مراكش-آسفي"
+  },
+  {
+    "id": 4,
+    "name": "فاس",
+    "nameFr": "Fès",
+    "nameEn": "Fes",
+    "lat": 34.0181,
+    "lon": -5.0078,
+    "isCapital": false,
+    "population": 1112072,
+    "region": "فاس-مكناس"
+  },
+  {
+    "id": 5,
+    "name": "طنجة",
+    "nameFr": "Tanger",
+    "nameEn": "Tangier",
+    "lat": 35.7595,
+    "lon": -5.8340,
+    "isCapital": false,
+    "population": 947952,
+    "region": "طنجة-تطوان-الحسيمة"
+  },
+  {
+    "id": 6,
+    "name": "أغادير",
+    "nameFr": "Agadir",
+    "nameEn": "Agadir",
+    "lat": 30.4278,
+    "lon": -9.5981,
+    "isCapital": false,
+    "population": 421844,
+    "region": "سوس-ماسة"
+  },
+  {
+    "id": 7,
+    "name": "مكناس",
+    "nameFr": "Meknès",
+    "nameEn": "Meknes",
+    "lat": 33.8935,
+    "lon": -5.5473,
+    "isCapital": false,
+    "population": 520428,
+    "region": "فاس-مكناس"
+  },
+  {
+    "id": 8,
+    "name": "وجدة",
+    "nameFr": "Oujda",
+    "nameEn": "Oujda",
+    "lat": 34.6814,
+    "lon": -1.9086,
+    "isCapital": false,
+    "population": 494252,
+    "region": "الشرق"
+  },
+  {
+    "id": 9,
+    "name": "القنيطرة",
+    "nameFr": "Kénitra",
+    "nameEn": "Kenitra",
+    "lat": 34.2610,
+    "lon": -6.5802,
+    "isCapital": false,
+    "population": 431282,
+    "region": "الرباط-سلا-القنيطرة"
+  },
+  {
+    "id": 10,
+    "name": "تطوان",
+    "nameFr": "Tétouan",
+    "nameEn": "Tetouan",
+    "lat": 35.5889,
+    "lon": -5.3626,
+    "isCapital": false,
+    "population": 380787,
+    "region": "طنجة-تطوان-الحسيمة"
+  },
+  {
+    "id": 11,
+    "name": "الصويرة",
+    "nameFr": "Essaouira",
+    "nameEn": "Essaouira",
+    "lat": 31.5085,
+    "lon": -9.7595,
+    "isCapital": false,
+    "population": 77966,
+    "region": "مراكش-آسفي"
+  },
+  {
+    "id": 12,
+    "name": "الجديدة",
+    "nameFr": "El Jadida",
+    "nameEn": "El Jadida",
+    "lat": 33.2316,
+    "lon": -8.5007,
+    "isCapital": false,
+    "population": 194934,
+    "region": "الدار البيضاء-سطات"
+  },
+  {
+    "id": 13,
+    "name": "بني ملال",
+    "nameFr": "Béni Mellal",
+    "nameEn": "Beni Mellal",
+    "lat": 32.3373,
+    "lon": -6.3498,
+    "isCapital": false,
+    "population": 192676,
+    "region": "بني ملال-خنيفرة"
+  },
+  {
+    "id": 14,
+    "name": "خريبكة",
+    "nameFr": "Khouribga",
+    "nameEn": "Khouribga",
+    "lat": 32.8811,
+    "lon": -6.9063,
+    "isCapital": false,
+    "population": 196196,
+    "region": "بني ملال-خنيفرة"
+  },
+  {
+    "id": 15,
+    "name": "الحسيمة",
+    "nameFr": "Al Hoceïma",
+    "nameEn": "Al Hoceima",
+    "lat": 35.2517,
+    "lon": -3.9372,
+    "isCapital": false,
+    "population": 56716,
+    "region": "طنجة-تطوان-الحسيمة"
+  },
+  {
+    "id": 16,
+    "name": "الناظور",
+    "nameFr": "Nador",
+    "nameEn": "Nador",
+    "lat": 35.1681,
+    "lon": -2.9283,
+    "isCapital": false,
+    "population": 161726,
+    "region": "الشرق"
+  },
+  {
+    "id": 17,
+    "name": "ورزازات",
+    "nameFr": "Ouarzazate",
+    "nameEn": "Ouarzazate",
+    "lat": 30.9335,
+    "lon": -6.9370,
+    "isCapital": false,
+    "population": 71067,
+    "region": "درعة-تافيلالت"
+  },
+  {
+    "id": 18,
+    "name": "العيون",
+    "nameFr": "Laâyoune",
+    "nameEn": "Laayoune",
+    "lat": 27.1536,
+    "lon": -13.2033,
+    "isCapital": false,
+    "population": 217732,
+    "region": "العيون-الساقية الحمراء"
+  },
+  {
+    "id": 19,
+    "name": "الداخلة",
+    "nameFr": "Dakhla",
+    "nameEn": "Dakhla",
+    "lat": 23.7148,
+    "lon": -15.9365,
+    "isCapital": false,
+    "population": 106277,
+    "region": "الداخلة-وادي الذهب"
+  },
+  {
+    "id": 20,
+    "name": "كلميم",
+    "nameFr": "Guelmim",
+    "nameEn": "Guelmim",
+    "lat": 29.0217,
+    "lon": -10.0574,
+    "isCapital": false,
+    "population": 118318,
+    "region": "كلميم-واد نون"
+  }
+]
