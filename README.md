@@ -1,6 +1,6 @@
 # 🇲🇦 Carte Météo Interactive du Maroc
 
-![Bannière du Projet](./screenshots/banner.png)
+![Bannière du Projet](https://github.com/merouan-dev/morocco-weather-map/blob/main/screenshots/image%20copy.png)
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.0-black?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -9,7 +9,7 @@
 
 Une application web moderne et interactive offrant des prévisions météorologiques en temps réel pour les principales villes du Maroc. Conçue avec une esthétique soignée inspirée des couleurs nationales et utilisant les dernières technologies web pour une performance optimale.
 
-[Voir la Démo en Ligne](https://votre-demo-url.com)
+[Voir la Démo en Ligne](https://morocco-weather-map.vercel.app/)
 
 ## 📋 Table des Matières
 - [Aperçu](#aperçu)
@@ -25,18 +25,6 @@ Une application web moderne et interactive offrant des prévisions météorologi
 - [Déploiement](#déploiement)
 - [Contribuer](#contribuer)
 - [Auteur](#auteur)
-
----
-
-## 📸 Captures d'Écran
-
-### Vue Principale
-![Vue principale](./screenshots/01-main-view-light.png)
-*Carte interactive du Maroc avec marqueurs météo en temps réel*
-
-### Version Mobile
-![Mobile portrait](./screenshots/05-mobile-portrait.png)
-*Design responsive optimisé pour smartphones*
 
 ---
 
@@ -119,8 +107,6 @@ npm run dev
 
 L'application sera accessible sur: `http://localhost:3000`
 
-![Installation Success](./screenshots/07-installation-success.png)
-
 ---
 
 ## 📁 Structure du Projet
@@ -149,20 +135,6 @@ morocco-weather-map/
 └── 📄 README.md
 ```
 
----
-
-## 🚀 Déploiement
-
-### Vercel (Recommandé pour Next.js)
-
-1. Poussez votre code sur GitHub.
-2. Connectez votre compte GitHub à Vercel.
-3. Importez le projet `morocco-weather-map`.
-4. Cliquez sur **Deploy**.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/votre-username/morocco-weather-map)
-
----
 
 ## 🎨 Personnalisation
 
@@ -182,12 +154,7 @@ Modifiez le fichier `data/moroccanCities.json` :
 }
 ```
 
-### Modifier le Thème
-Les couleurs sont définies dans `app/globals.css` via les variables CSS Tailwind v4 ou les classes utilitaires.
 
-![Personnalisation](./screenshots/09-customization.png)
-
----
 
 ## 🤝 Contribuer
 
@@ -203,13 +170,9 @@ Les contributions sont les bienvenues !
 ## 👨‍💻 Auteur
 
 **Merouan**
-- Créé avec ❤️ pour le Maroc 🇲🇦
+- Créé avec Merouan ❤️ pour le Maroc 🇲🇦
 
 ---
 
 ## 📄 Licence
 Ce projet est sous licence MIT.
-
-<div align="center">
-  <img src="./screenshots/footer-banner.png" alt="Footer Banner" width="100%" />
-</div>
