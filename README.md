@@ -192,6 +192,15 @@ Les contributions sont les bienvenues !
 </table>
 
 
+## 👥 Contributors
+
+| Avatar | Nom Complet | GitHub | Rôle |
+|--------|------------|--------|------|
+| <img src="https://github.com/Ayoub-glitsh.png" width="50" height="50" style="border-radius:50%;" /> | Ayoub Aguezzar | [@AYOUB-AGUEZZAR](https://github.com/Ayoub-glitsh.png) | Quant Developer & Project Author |
+| <img src="https://github.com/merouan-dev.png" width="50" height="50" style="border-radius:50%;" /> | Nom Contributeur | [@USERNAME2](https://github.com/merouan-dev) | Role |
+
+
+
 
 
 
