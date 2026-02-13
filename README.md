@@ -167,37 +167,13 @@ Les contributions sont les bienvenues !
 
 ---
 
-## 👨‍💻 Auteur
-
-**Merouan**
-- Créé avec Merouan ❤️ pour le Maroc 🇲🇦
-
----
-
-## 🤝 Contributeurs
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/merouan-dev.png" width="80" style="border-radius:50%;"><br>
-      <strong>Merouan</strong><br>
-      <a href="https://github.com/merouan-dev">Merouan Errachidi</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Ayoub-glitsh.png" width="80" style="border-radius:50%;"><br>
-      <strong>Ayoub Aguezar</strong><br>
-      <a href="https://github.com/Ayoub-glitsh">Ayoub Aguezar</a>
-    </td>
-  </tr>
-</table>
-
-
-## 👥 Contributors
+## 👥 Contributors & Auteur
 
 | Avatar | Nom Complet | GitHub | Rôle |
 |--------|------------|--------|------|
-| <img src="https://github.com/Ayoub-glitsh.png" width="50" height="50" style="border-radius:50%;" /> | Ayoub Aguezzar | [@AYOUB-AGUEZZAR](https://github.com/Ayoub-glitsh.png) | Quant Developer & Project Author |
-| <img src="https://github.com/merouan-dev.png" width="50" height="50" style="border-radius:50%;" /> | Nom Contributeur | [@USERNAME2](https://github.com/merouan-dev) | Role |
+| <img src="https://github.com/merouan-dev.png" width="50" height="50" style="border-radius:50%;" /> | Merouane Errachidi | [merouan-dev](https://github.com/merouan-dev) | Auteur du projet |
+| <img src="https://github.com/Ayoub-glitsh.png" width="50" height="50" style="border-radius:50%;" /> | Ayoub Aguezar | [Ayoub-glitsh](https://github.com/Ayoub-glitsh) | Contributeur |
+
 
 
 
