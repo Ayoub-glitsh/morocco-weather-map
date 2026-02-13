@@ -24,7 +24,7 @@ Une application web moderne et interactive offrant des prévisions météorologi
 - [Personnalisation](#personnalisation)
 - [Déploiement](#déploiement)
 - [Contribuer](#contribuer)
-- [Auteur & Contributeurs](#auteur)
+- [Auteur & Contributeurs](#auteur&Contributeurs)
 
 ---
 
@@ -166,6 +166,7 @@ Les contributions sont les bienvenues !
 5. Ouvrez une Pull Request.
 
 ---
+
 
 ## 👥 Auteur & Contributeurs
 
